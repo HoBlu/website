@@ -1,2 +1,1 @@
-# website
-sos
+logo.png
